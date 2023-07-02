@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for participation
+title: Submission Details
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
