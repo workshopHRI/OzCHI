@@ -20,9 +20,9 @@ author: CSIRO | QUT
 
 navbar-links:
   Summary of the workshop discussions: "aboutme"
-  #Resources:
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
   Download the images: "https://deanattali.com"
 
 ################
@@ -55,7 +55,7 @@ social-network-links:
   github: daattali
   twitter: daattali
   patreon: DeanAttali
-  youtube:# c/daattali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
