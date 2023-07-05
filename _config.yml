@@ -19,11 +19,11 @@ author: CSIRO | QUT
 ###############################################
 
 navbar-links:
-  Summary of the workshop discussions: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Download the images: "https://deanattali.com"
+  Summary of the workshop discussions: #"aboutme"
+  #Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Download the images: #"https://deanattali.com"
 
 ################
 # --- Logo --- #
